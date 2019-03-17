@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Florian Böhler <florian@boehlerbrothers.com>",
-  "repository": "https://github.com/lmnet/franz-recipe-notion",
+  "repository": "https://github.com/floooat/franz-receipe-paymo",
   "config": {
     "serviceURL": "https://app.paymoapp.com/"
   }
