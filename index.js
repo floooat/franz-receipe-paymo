@@ -1,3 +1,6 @@
 "use strict";
 
-module.exports = Paymo => Paymo;
+// just pass through Franz
+module.exports = function (Franz) {
+  return Franz;
+};
