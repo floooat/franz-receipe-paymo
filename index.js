@@ -1,3 +1,3 @@
 "use strict";
 
-module.exports = Franz => Franz;
+module.exports = Paymo => Paymo;

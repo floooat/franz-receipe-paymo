@@ -1,13 +1,13 @@
 {
-  "id": "notion",
-  "name": "Notion",
+  "id": "paymo",
+  "name": "Paymo",
   "version": "1.0.0",
-  "description": "Notion",
+  "description": "Paymo",
   "main": "index.js",
   "license": "MIT",
-  "author": "Yuriy Badalyantc <lmnet89@gmail.com>",
+  "author": "Florian Böhler <florian@boehlerbrothers.com>",
   "repository": "https://github.com/lmnet/franz-recipe-notion",
   "config": {
-    "serviceURL": "https://notion.so"
+    "serviceURL": "https://app.paymoapp.com/"
   }
 }
